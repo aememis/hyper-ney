@@ -31,3 +31,15 @@ Repo for enhancing a traditional ney flute.
 # Additional Material
 See a blog post about The Hyper-Ney here: <br>
 [The Hyper-Ney: Electrizing an ancient flute. - MCT Blog](https://mct-master.github.io/interactive-music/2023/12/01/ahmetem-the-hyper-ney.html)
+
+# Attributions
+The `bela_project\steelhang.wav` audio file, which is used in a granular synthesizer, is a part of the "Constructor de Hangs :: Hang maker" piece created by aldeainvisible. This audio is provided under the Attribution 3.0 license.
+
+- **Constructor de Hangs :: Hang maker**
+  - Author: [aldeainvisible]
+  - License: [Attribution 3.0](https://creativecommons.org/licenses/by/3.0/)
+  - Source: [Link to the original sound file or author's page](https://freesound.org/s/261349/)
+
+"Creative Commons 10th Birthday Celebration San Francisco" by Timothy Vollmer, used under CC BY 4.0 / Cropped from original
+
+https://creativecommons.org/licenses/by/3.0/
