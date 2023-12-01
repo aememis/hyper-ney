@@ -4,7 +4,8 @@ Repo for enhancing a traditional ney flute.
 # Directory
 
 ```
-│   Technical Guide.pdf
+│
+├───Technical Guide.pdf
 │       A technical guide about the specifications of The Hyper-Ney along with
 │       assembly instructions.
 │
