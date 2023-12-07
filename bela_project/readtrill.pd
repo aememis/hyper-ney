@@ -37,6 +37,7 @@
 #X text 659 490 the conductivity in moutpiece sensor is getting affected by;
 #X text 659 506 other capacitive sensors \, typically because of their proximity, f 62;
 #X text 659 522 I compansate this by an arithmetic operation., f 62;
+#X text 14 627 outlets hole and mouthpiece sensors;
 #X connect 0 0 1 0;
 #X connect 1 0 32 0;
 #X connect 2 0 8 0;
